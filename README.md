@@ -22,7 +22,7 @@ Model Training: Train the logistic regression model using the training dataset. 
 # Instantiate the logistic regression model
 model = LogisticRegression()
 
-# Train the model
+# Step 4: Train the model
 model.fit(X_train, y_train)
 Step 4: Model Evaluation
 Predictions: Use the trained model to make predictions on the testing dataset.
